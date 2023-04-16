@@ -1,4 +1,4 @@
-package Validator
+package EntityValidator
 
 import (
 	"errors"
